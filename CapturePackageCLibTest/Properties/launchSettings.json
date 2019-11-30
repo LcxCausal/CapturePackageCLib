@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CapturePackageCLibTest": {
+      "commandName": "Project",
+      "commandLineArgs": "https://www.biquge.com.cn/"
+    }
+  }
+}
